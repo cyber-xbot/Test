@@ -297,7 +297,7 @@ def C99():
 	
 def AG():
  #    os.system(' python Rn4.py ')
-     print (" python Randomxx.py")
+     os.system(' python Randomxx.py ')
      menu()
 #------------admin---------+------------------
 
